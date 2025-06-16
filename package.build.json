@@ -1,0 +1,12 @@
+{
+  "name": "hy-logs",
+  "version": "0.1.2",
+  "main": "index.js",
+  "license": "AGPL-3.0-only",
+  "repository": "https://github.com/outofthegrid-st/hy-logs.git",
+  "author": {
+    "name": "Alerta Dino",
+    "email": "ti@alertadino.org",
+    "url": "https://alertadino.org"
+  }
+}
